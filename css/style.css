@@ -1,0 +1,29 @@
+body{
+    background: black;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+p{
+    color: rgb(5, 82, 134);
+}
+.cardEquipos{
+    width:100px;
+}
+
+.fakeAncla{
+   text-decoration: underline;
+    color: #d2d9e5;
+}
+
+.loginBar{
+    background-color: rgb(15, 117, 172);
+    padding: 20px;
+    margin-bottom: 20px;
+}
