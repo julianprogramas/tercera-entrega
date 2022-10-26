@@ -1,5 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
-    background: black;
+    font-family: cursive;
+    margin: 0;
+    background: black;   
+}
+a{
+    text-decoration: none;
 }
 h2{
     color: white;
@@ -12,6 +21,12 @@ h4{
 }
 p{
     color: rgb(5, 82, 134);
+}
+main{
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    margin-top: 150px;
 }
 .cardEquipos{
     width:100px;
@@ -27,3 +42,9 @@ p{
     padding: 20px;
     margin-bottom: 20px;
 }
+
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+
