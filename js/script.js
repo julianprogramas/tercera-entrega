@@ -1,3 +1,4 @@
+
 const usuarios=[{
     nombre:'Julian',
     mail:'julideracing@gmail.com',
@@ -19,7 +20,7 @@ const equipos =[
     nombre:'Racing',
     ciudad:'Avellaneda',
     socios:'80mil',
-    titulos:'37',
+    titulos:'38',
     img: './img/rac.png'
 },
 {
@@ -161,7 +162,6 @@ function mostrarInfoEquipos(array) {
                     <p class="card-text" id="titulosEquipos">Titulos: ${element.titulos}</p>
                     
                   
-
                 </div>
             </div>`;
         contTarjetas.innerHTML += html;
@@ -202,4 +202,3 @@ btnLogout.addEventListener('click', () => {
 });
 
 window.onload = () => estaLogueado(recuperarUsuario(localStorage)); 
-

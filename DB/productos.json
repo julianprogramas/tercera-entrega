@@ -1,0 +1,73 @@
+[
+    {
+            "id": 1,
+            "marca": "kappa",
+            "modelo": "camiseta campeon ",
+            "precio": 52393,
+            "imagen" : "../img/01.jpg"        
+    
+    },
+    {
+            "id": 2,
+            "marca": "kappa",
+            "modelo": "camiseta titular",
+            "precio": 54400,
+            "imagen" : "../img/02.jpg"        
+    },
+    {
+            "id": 3,
+            "marca": "kappa",
+            "modelo": "MANGA LARGA ",
+            "precio": 90000,
+            "imagen" : "../img/03.jpg"        
+            
+    },
+    {
+            "id" : 4,
+            "marca": "kappa",
+            "precio": 75000,
+            "imagen" : "../img/04.jpg"        
+    },
+    {
+            "id": 5,
+            "marca": "kappa",
+            "modelo": "pechera",
+            "precio": 120000, 
+            "imagen" : "../img/05.jpg"        
+    },
+    {
+            "id": 6,
+            "marca": "kappa",
+            "modelo": "toallon estadio",
+            "precio": 100499, 
+            "imagen" : "../img/06.jpg"        
+    },
+    {
+            "id": 7,
+            "marca": "kappa",
+            "modelo": "camiseta alternativa",
+            "precio": 115869, 
+            "imagen" : "../img/07.jpg"        
+    },
+    {
+            "id": 8,
+            "marca": "kappa",
+            "modelo": "camiseta alternativa",
+            "precio": 54599, 
+            "imagen" : "../img/08.jpg"        
+    },
+    {
+            "id": 9,
+            "marca": "kappa",
+            "modelo": "pantalon",
+            "precio": 70699, 
+            "imagen" : "../img/09.jpg"        
+    },
+    {
+            "id": 10,
+            "marca": "kappa",
+            "modelo": "camiseta alternativa",
+            "precio": 89900, 
+            "imagen" : "../img/10.jpg"        
+    }
+    ]

@@ -47,4 +47,10 @@ footer{
     display: flex;
     justify-content: space-around;
 }
+.locademia {
+    margin: 30px;
+}
+.locademia a{
+    color: aliceblue;
+}
 
